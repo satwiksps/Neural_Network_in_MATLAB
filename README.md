@@ -29,9 +29,9 @@ Covers both foundational and slightly advanced neural network concepts.
 
 ## How to Use:
 Clone the repository:
-'''
+```bash
 git clone https://github.com/yourusername/your-repository-name.git
-'''
+```
 Open any .m file in MATLAB to run and experiment.
 
 ## Target Audience:
